@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm I'm Amine Laaguidi</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-
-
 - 🌱 I’m currently learning **Spring and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amine-laaguidi](https://github.com/amine-laaguidi)

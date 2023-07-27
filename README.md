@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Amine Laaguidi</h1>
+<h1 align="center">Hi 👋, I'm Amine Laaguidi</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 - 🌱 I’m currently learning **Spring and Angular**
 
